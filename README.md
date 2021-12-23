@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/brener-kaio">
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=brener-kaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-kaio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=brener-kaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-kaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div>
       <img align="right" alt="Kaio-pic" height="300"  src="https://cdn.discordapp.com/attachments/923388646084722709/923388704746274826/1111946.jpg">
