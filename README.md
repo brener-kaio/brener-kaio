@@ -8,7 +8,7 @@
   <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=brener-kaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-kaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div>
-      <img align="right" alt="Kaio-pic" height="300"  src="https://cdn.discordapp.com/attachments/923388646084722709/923388704746274826/1111946.jpg">
+      <img align="right" alt="Kaio-pic" height="200"  src="https://cdn.discordapp.com/attachments/923388646084722709/923388704746274826/1111946.jpg">
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
