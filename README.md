@@ -5,17 +5,17 @@
 
 <div align="center">
   <a href="https://github.com/brener-kaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brener-kaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-kaio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=brener-kaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-kaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  <div>
+      <img align="right" alt="Kaio-pic" height="300"  src="https://cdn.discordapp.com/attachments/923388646084722709/923388704746274826/1111946.jpg">
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaio-React" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
    <img align="center" alt="Kaio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="right" alt="Kaio-pic" height="150" src="https://user-images.githubusercontent.com/77301892/147173590-7ca35c28-9511-4dc9-a99f-09b00f4b4c33.mp4">
 </div>
   
   ##
