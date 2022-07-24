@@ -1,7 +1,6 @@
 ### OLÁ, SOU O KAIO! 👋
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estou estudando react
+- 🔭 I'm a software development and web deevelopment student.
 
 <div align="center">
   <a href="https://github.com/brener-kaio">
