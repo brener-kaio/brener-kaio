@@ -1,6 +1,6 @@
 ### OLÁ, SOU O KAIO! 👋
 
-- 🔭 I'm a software development and web deevelopment student.
+- 🔭 I'm a software development and web development student.
 
 <div align="center">
   <a href="https://github.com/brener-kaio">
